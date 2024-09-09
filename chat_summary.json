@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"User Analytics Overview\", \"checked\": true}, {\"feature\": \"Transaction History\", \"checked\": false}, {\"feature\": \"Portfolio Performance Tracker\", \"checked\": false}, {\"feature\": \"Notifications for Market Changes\", \"checked\": true}, {\"feature\": \"Customization Options for Dashboard Layout\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 78, \"time_taken\": \"0:00:01.449418\"}",
+        "timestamp": "09092024124823",
+        "message_id": "guest09092024124816"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific data or metrics do you want displayed on the dashboard?\", \"option1\": \"User balance and transaction history\", \"option2\": \"Market trends and analytics\"}, {\"question 2\": \"Do you have a preferred color scheme or design style for the dashboard?\", \"option1\": \"Light and modern\", \"option2\": \"Dark and sleek\"}], \"input_token_count\": 270, \"output_token_count\": 86, \"time_taken\": \"0:00:02.290761\"}",
         "timestamp": "09092024124821",
