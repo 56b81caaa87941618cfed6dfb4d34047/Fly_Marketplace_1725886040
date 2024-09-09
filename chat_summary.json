@@ -6,5 +6,11 @@
         "timestamp": "1725886042",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "create a dashboard like aave here",
+        "timestamp": "09092024124816",
+        "message_id": "guest09092024124816"
     }
 ]
