@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm starting on creating a dashboard like Aave.",
+        "timestamp": "09092024124817",
+        "message_id": "guest09092024124816"
+    },
+    {
         "role": "user",
         "content": "create a dashboard like aave here",
         "timestamp": "09092024124816",
